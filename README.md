@@ -50,8 +50,10 @@
  
 <h3 align="left">Connect with me:</h3>
  
+ 
 <div> 
   <a href="https://www.linkedin.com/in/fermisson-gomes-barbosa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p>my email: fermison.barbosa@gmail.com</p>
 </div>
 
 <!--
