@@ -2,9 +2,9 @@
 
 <h3 align="center">I'm from Bahia, Brazil, I'm training to be a Full-Stack Developer and I'm currently looking for opportunities</h3>
 
-- 🤔 I’m currently studying at **[Trybe](https://www.betrybe.com)**
+- 🤔 I’m currently formed at **[Trybe](https://www.betrybe.com)**
 - 🔭 I'm currently looking for opportunities to change my career as a **developer**
-- 🌱 I’m currently learning **Back-End: MySQL**
+- 🌱 I’m currently learning **AWS**
 - 💬 Ask me about **React, Redux, Jest, RTL, CSS**
 - 👾 My hobbies are playing games and watching animes
 
